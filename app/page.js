@@ -7,6 +7,8 @@ export default function Home() {
       <div className="container">
         <h1>
           <br />
+          SNS Leather
+    <br />
           Coming Soon
         </h1>
         <CountDown />
